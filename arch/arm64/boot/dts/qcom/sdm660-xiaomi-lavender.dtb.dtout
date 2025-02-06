@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/sdm660-xiaomi-lavender.dts:338.4-35: Warning (clocks_property): /soc/serial@c170000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/qcom/sdm660-xiaomi-lavender.dts:338.4-35: Warning (clocks_property): /soc/serial@c170000:clocks: cell 2 is not a phandle reference

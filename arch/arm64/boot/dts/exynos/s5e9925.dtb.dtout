@@ -1,0 +1,838 @@
+arch/arm64/boot/dts/exynos/s5e9925.dts:3396.3-36: Warning (clocks_property): /hsi2c@11D00000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3396.3-36: Warning (clocks_property): /hsi2c@11D00000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3418.3-36: Warning (clocks_property): /hsi2c@11D10000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3418.3-36: Warning (clocks_property): /hsi2c@11D10000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3440.3-36: Warning (clocks_property): /hsi2c@11D20000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3440.3-36: Warning (clocks_property): /hsi2c@11D20000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3462.3-36: Warning (clocks_property): /hsi2c@11D30000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3462.3-36: Warning (clocks_property): /hsi2c@11D30000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3484.3-36: Warning (clocks_property): /hsi2c@11D40000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3484.3-36: Warning (clocks_property): /hsi2c@11D40000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3506.3-36: Warning (clocks_property): /hsi2c@11D50000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3506.3-36: Warning (clocks_property): /hsi2c@11D50000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3528.3-36: Warning (clocks_property): /hsi2c@11D60000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3528.3-36: Warning (clocks_property): /hsi2c@11D60000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3550.3-36: Warning (clocks_property): /hsi2c@11D70000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3550.3-36: Warning (clocks_property): /hsi2c@11D70000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3572.3-36: Warning (clocks_property): /hsi2c@10500000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3572.3-36: Warning (clocks_property): /hsi2c@10500000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3594.3-36: Warning (clocks_property): /hsi2c@10510000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3594.3-36: Warning (clocks_property): /hsi2c@10510000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3616.3-36: Warning (clocks_property): /hsi2c@11DD0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3616.3-36: Warning (clocks_property): /hsi2c@11DD0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3638.3-36: Warning (clocks_property): /hsi2c@11D80000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3638.3-36: Warning (clocks_property): /hsi2c@11D80000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3660.3-36: Warning (clocks_property): /hsi2c@11DE0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3660.3-36: Warning (clocks_property): /hsi2c@11DE0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3682.3-36: Warning (clocks_property): /hsi2c@11D90000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3682.3-36: Warning (clocks_property): /hsi2c@11D90000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3704.3-36: Warning (clocks_property): /hsi2c@10900000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3704.3-36: Warning (clocks_property): /hsi2c@10900000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3726.3-36: Warning (clocks_property): /hsi2c@10910000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3726.3-36: Warning (clocks_property): /hsi2c@10910000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3748.3-36: Warning (clocks_property): /hsi2c@10920000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3748.3-36: Warning (clocks_property): /hsi2c@10920000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3770.3-36: Warning (clocks_property): /hsi2c@10930000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3770.3-36: Warning (clocks_property): /hsi2c@10930000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3792.3-36: Warning (clocks_property): /hsi2c@10940000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3792.3-36: Warning (clocks_property): /hsi2c@10940000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3814.3-36: Warning (clocks_property): /hsi2c@10950000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3814.3-36: Warning (clocks_property): /hsi2c@10950000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3836.3-36: Warning (clocks_property): /hsi2c@10960000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3836.3-36: Warning (clocks_property): /hsi2c@10960000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3858.3-36: Warning (clocks_property): /hsi2c@10970000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3858.3-36: Warning (clocks_property): /hsi2c@10970000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3880.3-36: Warning (clocks_property): /hsi2c@11DA0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3880.3-36: Warning (clocks_property): /hsi2c@11DA0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3902.3-36: Warning (clocks_property): /hsi2c@11DB0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3902.3-36: Warning (clocks_property): /hsi2c@11DB0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3924.3-36: Warning (clocks_property): /hsi2c@14F00000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3924.3-36: Warning (clocks_property): /hsi2c@14F00000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3946.3-36: Warning (clocks_property): /hsi2c@14F10000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3946.3-36: Warning (clocks_property): /hsi2c@14F10000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3968.3-36: Warning (clocks_property): /hsi2c@14F20000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3968.3-36: Warning (clocks_property): /hsi2c@14F20000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3990.3-36: Warning (clocks_property): /hsi2c@14F30000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:3990.3-36: Warning (clocks_property): /hsi2c@14F30000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4012.3-36: Warning (clocks_property): /hsi2c@14F40000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4012.3-36: Warning (clocks_property): /hsi2c@14F40000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4034.3-36: Warning (clocks_property): /hsi2c@14F50000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4034.3-36: Warning (clocks_property): /hsi2c@14F50000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4056.3-36: Warning (clocks_property): /hsi2c@14F60000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4056.3-36: Warning (clocks_property): /hsi2c@14F60000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4078.3-36: Warning (clocks_property): /hsi2c@14F70000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4078.3-36: Warning (clocks_property): /hsi2c@14F70000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4100.3-36: Warning (clocks_property): /hsi2c@14F80000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4100.3-36: Warning (clocks_property): /hsi2c@14F80000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4122.3-36: Warning (clocks_property): /hsi2c@14F90000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4122.3-36: Warning (clocks_property): /hsi2c@14F90000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4144.3-36: Warning (clocks_property): /hsi2c@14FA0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4144.3-36: Warning (clocks_property): /hsi2c@14FA0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4166.3-36: Warning (clocks_property): /hsi2c@14FB0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4166.3-36: Warning (clocks_property): /hsi2c@14FB0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4188.3-36: Warning (clocks_property): /hsi2c@14FC0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4188.3-36: Warning (clocks_property): /hsi2c@14FC0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4210.3-36: Warning (clocks_property): /hsi2c@14FD0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4210.3-36: Warning (clocks_property): /hsi2c@14FD0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4232.3-36: Warning (clocks_property): /hsi2c@14FE0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4232.3-36: Warning (clocks_property): /hsi2c@14FE0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4255.3-36: Warning (clocks_property): /spi@11D00000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4255.3-36: Warning (clocks_property): /spi@11D00000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4279.3-36: Warning (clocks_property): /spi@11D20000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4279.3-36: Warning (clocks_property): /spi@11D20000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4303.3-36: Warning (clocks_property): /spi@11D40000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4303.3-36: Warning (clocks_property): /spi@11D40000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4327.3-36: Warning (clocks_property): /spi@11D60000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4327.3-36: Warning (clocks_property): /spi@11D60000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4351.3-36: Warning (clocks_property): /spi@10500000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4351.3-36: Warning (clocks_property): /spi@10500000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4375.3-36: Warning (clocks_property): /spi@11DD0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4375.3-36: Warning (clocks_property): /spi@11DD0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4399.3-36: Warning (clocks_property): /spi@11DE0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4399.3-36: Warning (clocks_property): /spi@11DE0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4423.3-36: Warning (clocks_property): /spi@10900000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4423.3-36: Warning (clocks_property): /spi@10900000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4447.3-36: Warning (clocks_property): /spi@10920000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4447.3-36: Warning (clocks_property): /spi@10920000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4471.3-36: Warning (clocks_property): /spi@10940000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4471.3-36: Warning (clocks_property): /spi@10940000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4495.3-36: Warning (clocks_property): /spi@10960000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4495.3-36: Warning (clocks_property): /spi@10960000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4519.3-36: Warning (clocks_property): /spi@11DA0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4519.3-36: Warning (clocks_property): /spi@11DA0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4537.3-36: Warning (clocks_property): /spi@14F00000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4537.3-36: Warning (clocks_property): /spi@14F00000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4555.3-36: Warning (clocks_property): /spi@14F20000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4555.3-36: Warning (clocks_property): /spi@14F20000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4573.3-36: Warning (clocks_property): /spi@14F40000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4573.3-36: Warning (clocks_property): /spi@14F40000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4591.3-36: Warning (clocks_property): /spi@14F60000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4591.3-36: Warning (clocks_property): /spi@14F60000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4609.3-36: Warning (clocks_property): /spi@14F80000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4609.3-36: Warning (clocks_property): /spi@14F80000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4627.3-36: Warning (clocks_property): /spi@14FA0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4627.3-36: Warning (clocks_property): /spi@14FA0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4645.3-36: Warning (clocks_property): /spi@14FC0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4645.3-36: Warning (clocks_property): /spi@14FC0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4664.3-36: Warning (clocks_property): /uart@11C40000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4664.3-36: Warning (clocks_property): /uart@11C40000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4686.3-36: Warning (clocks_property): /uart@10840000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4686.3-36: Warning (clocks_property): /uart@10840000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4702.3-36: Warning (clocks_property): /uart@11D00000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4702.3-36: Warning (clocks_property): /uart@11D00000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4720.3-36: Warning (clocks_property): /uart@11D20000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4720.3-36: Warning (clocks_property): /uart@11D20000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4738.3-36: Warning (clocks_property): /uart@11D40000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4738.3-36: Warning (clocks_property): /uart@11D40000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4756.3-36: Warning (clocks_property): /uart@11D60000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4756.3-36: Warning (clocks_property): /uart@11D60000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4774.3-36: Warning (clocks_property): /uart@10500000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4774.3-36: Warning (clocks_property): /uart@10500000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4792.3-36: Warning (clocks_property): /uart@11DD0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4792.3-36: Warning (clocks_property): /uart@11DD0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4810.3-36: Warning (clocks_property): /uart@11DE0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4810.3-36: Warning (clocks_property): /uart@11DE0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4828.3-36: Warning (clocks_property): /uart@10900000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4828.3-36: Warning (clocks_property): /uart@10900000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4846.3-36: Warning (clocks_property): /uart@10920000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4846.3-36: Warning (clocks_property): /uart@10920000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4864.3-36: Warning (clocks_property): /uart@10940000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4864.3-36: Warning (clocks_property): /uart@10940000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4882.3-36: Warning (clocks_property): /uart@10960000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4882.3-36: Warning (clocks_property): /uart@10960000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4900.3-36: Warning (clocks_property): /uart@11DA0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4900.3-36: Warning (clocks_property): /uart@11DA0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4918.3-36: Warning (clocks_property): /uart@14F00000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4918.3-36: Warning (clocks_property): /uart@14F00000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4936.3-36: Warning (clocks_property): /uart@14F20000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4936.3-36: Warning (clocks_property): /uart@14F20000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4954.3-36: Warning (clocks_property): /uart@14F40000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4954.3-36: Warning (clocks_property): /uart@14F40000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4972.3-36: Warning (clocks_property): /uart@14F60000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4972.3-36: Warning (clocks_property): /uart@14F60000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4990.3-36: Warning (clocks_property): /uart@14F80000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4990.3-36: Warning (clocks_property): /uart@14F80000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5008.3-36: Warning (clocks_property): /uart@14FA0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5008.3-36: Warning (clocks_property): /uart@14FA0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5026.3-36: Warning (clocks_property): /uart@14FC0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5026.3-36: Warning (clocks_property): /uart@14FC0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5038.3-36: Warning (clocks_property): /i3c@10460000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5038.3-36: Warning (clocks_property): /i3c@10460000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5050.3-36: Warning (clocks_property): /i3c@10470000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5050.3-36: Warning (clocks_property): /i3c@10470000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5062.3-36: Warning (clocks_property): /i3c@10480000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5062.3-36: Warning (clocks_property): /i3c@10480000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5074.3-36: Warning (clocks_property): /i3c@11DC0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5074.3-36: Warning (clocks_property): /i3c@11DC0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5086.3-36: Warning (clocks_property): /i3c@11C80000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5086.3-36: Warning (clocks_property): /i3c@11C80000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5098.3-36: Warning (clocks_property): /i3c@11C90000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5098.3-36: Warning (clocks_property): /i3c@11C90000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5110.3-36: Warning (clocks_property): /i3c@11CA0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5110.3-36: Warning (clocks_property): /i3c@11CA0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5122.3-36: Warning (clocks_property): /i3c@11CB0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5122.3-36: Warning (clocks_property): /i3c@11CB0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5134.3-36: Warning (clocks_property): /i3c@11CC0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5134.3-36: Warning (clocks_property): /i3c@11CC0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5146.3-36: Warning (clocks_property): /i3c@11CD0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5146.3-36: Warning (clocks_property): /i3c@11CD0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5158.3-36: Warning (clocks_property): /i3c@11CE0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5158.3-36: Warning (clocks_property): /i3c@11CE0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5170.3-36: Warning (clocks_property): /i3c@11CF0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5170.3-36: Warning (clocks_property): /i3c@11CF0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5303.3-97: Warning (clocks_property): /abox@18c50000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5303.3-97: Warning (clocks_property): /abox@18c50000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5303.3-97: Warning (clocks_property): /abox@18c50000:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5303.3-97: Warning (clocks_property): /abox@18c50000:clocks: cell 6 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5303.3-97: Warning (clocks_property): /abox@18c50000:clocks: cell 8 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5303.3-97: Warning (clocks_property): /abox@18c50000:clocks: cell 10 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5303.3-97: Warning (clocks_property): /abox@18c50000:clocks: cell 12 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5303.3-97: Warning (clocks_property): /abox@18c50000:clocks: cell 14 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5865.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c00:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5865.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c00:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5865.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c00:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5880.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c20:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5880.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c20:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5880.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c20:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5895.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c40:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5895.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c40:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5895.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c40:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5910.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c60:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5910.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c60:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5910.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c60:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5925.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c80:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5925.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c80:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5925.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50c80:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5937.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50ca0:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5937.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50ca0:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5937.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50ca0:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5949.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50cc0:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5949.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50cc0:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5949.4-45: Warning (clocks_property): /abox@18c50000/abox-uaif@18c50cc0:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5961.4-35: Warning (clocks_property): /abox@18c50000/abox-dsif@18c50de0:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5961.4-35: Warning (clocks_property): /abox@18c50000/abox-dsif@18c50de0:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 6 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 8 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 10 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 12 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 14 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 16 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6120.3-123: Warning (clocks_property): /vts@0x15310000:clocks: cell 18 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6157.3-98: Warning (clocks_property): /vts_s_lif@0x18f50000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6157.3-98: Warning (clocks_property): /vts_s_lif@0x18f50000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6157.3-98: Warning (clocks_property): /vts_s_lif@0x18f50000:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6157.3-98: Warning (clocks_property): /vts_s_lif@0x18f50000:clocks: cell 6 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6157.3-98: Warning (clocks_property): /vts_s_lif@0x18f50000:clocks: cell 8 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6157.3-98: Warning (clocks_property): /vts_s_lif@0x18f50000:clocks: cell 10 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6157.3-98: Warning (clocks_property): /vts_s_lif@0x18f50000:clocks: cell 12 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6157.3-98: Warning (clocks_property): /vts_s_lif@0x18f50000:clocks: cell 14 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7297.3-36: Warning (clocks_property): /drmdp@0x10A80000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7297.3-36: Warning (clocks_property): /drmdp@0x10A80000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7312.3-25: Warning (clocks_property): /drmdecon@0x19F00000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7371.3-25: Warning (clocks_property): /drmdecon@0x19F01000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7403.3-25: Warning (clocks_property): /drmdecon@0x19F02000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7435.3-25: Warning (clocks_property): /drmdecon@0x19F03000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7472.3-36: Warning (clocks_property): /usb@10B00000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7472.3-36: Warning (clocks_property): /usb@10B00000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7516.3-36: Warning (clocks_property): /phy@10AA0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7516.3-36: Warning (clocks_property): /phy@10AA0000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7650.3-36: Warning (clocks_property): /ufs@0x11100000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7650.3-36: Warning (clocks_property): /ufs@0x11100000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7855.3-25: Warning (clocks_property): /etf0@4004000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7887.3-25: Warning (clocks_property): /etf1@4005000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7919.3-25: Warning (clocks_property): /etr@400a000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7943.3-25: Warning (clocks_property): /stm0@400b000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7962.3-25: Warning (clocks_property): /funnel0@4007000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7987.3-25: Warning (clocks_property): /funnel1@4008000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8021.3-25: Warning (clocks_property): /funnelm@4009000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8265.4-26: Warning (clocks_property): /exynos_devfreq/devfreq_mif@17000010:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14145.4-26: Warning (clocks_property): /mfc/MFC-0:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14360.4-26: Warning (clocks_property): /mfc/MFC-1:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14585.3-25: Warning (clocks_property): /scaler@18960000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 6 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 8 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 10 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 12 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 14 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 16 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 18 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 20 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 22 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 24 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 26 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 28 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 30 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 32 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 34 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 36 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 38 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 40 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 42 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 44 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 46 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 48 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 50 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 52 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 54 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 56 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 58 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 60 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 62 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14715.3-371: Warning (clocks_property): /exynos_is@18440000:clocks: cell 64 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14785.3-25: Warning (clocks_property): /gdc@17700000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15511.3-25: Warning (clocks_property): /hwdev_dnc:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15872.3-34: Warning (clocks_property): /mct_alive@15890000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15872.3-34: Warning (clocks_property): /mct_alive@15890000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15951.4-26: Warning (clocks_property): /amba/pdma0@1A4E0000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:16037.3-35: Warning (clocks_property): /pwm@11C50000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:16037.3-35: Warning (clocks_property): /pwm@11C50000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:16047.3-35: Warning (clocks_property): /watchdog_cl0@10050000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:16047.3-35: Warning (clocks_property): /watchdog_cl0@10050000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:16060.3-35: Warning (clocks_property): /watchdog_cl1@10060000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:16060.3-35: Warning (clocks_property): /watchdog_cl1@10060000:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:16258.3-34: Warning (clocks_property): /contexthub:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:16258.3-34: Warning (clocks_property): /contexthub:clocks: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17411.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D00000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17408.18-17414.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D00000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17419.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D10000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17416.18-17422.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D10000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17427.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D20000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17424.18-17430.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D20000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17435.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D30000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17432.18-17438.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D30000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17443.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D40000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17440.18-17446.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D40000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17451.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D50000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17448.18-17454.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D50000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17459.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D60000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17456.18-17462.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D60000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17467.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D70000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17464.18-17470.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D70000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17475.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10500000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17472.18-17478.5: Warning (clocks_property): /__local_fixups__/hsi2c@10500000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17483.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10510000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17480.18-17486.5: Warning (clocks_property): /__local_fixups__/hsi2c@10510000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17491.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11DD0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17488.18-17494.5: Warning (clocks_property): /__local_fixups__/hsi2c@11DD0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17499.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D80000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17496.18-17502.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D80000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17507.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11DE0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17504.18-17510.5: Warning (clocks_property): /__local_fixups__/hsi2c@11DE0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17515.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11D90000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17512.18-17518.5: Warning (clocks_property): /__local_fixups__/hsi2c@11D90000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17523.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10900000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17520.18-17526.5: Warning (clocks_property): /__local_fixups__/hsi2c@10900000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17531.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10910000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17528.18-17534.5: Warning (clocks_property): /__local_fixups__/hsi2c@10910000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17539.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10920000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17536.18-17542.5: Warning (clocks_property): /__local_fixups__/hsi2c@10920000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17547.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10930000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17544.18-17550.5: Warning (clocks_property): /__local_fixups__/hsi2c@10930000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17555.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10940000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17552.18-17558.5: Warning (clocks_property): /__local_fixups__/hsi2c@10940000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17563.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10950000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17560.18-17566.5: Warning (clocks_property): /__local_fixups__/hsi2c@10950000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17571.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10960000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17568.18-17574.5: Warning (clocks_property): /__local_fixups__/hsi2c@10960000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17579.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@10970000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17576.18-17582.5: Warning (clocks_property): /__local_fixups__/hsi2c@10970000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17587.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11DA0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17584.18-17590.5: Warning (clocks_property): /__local_fixups__/hsi2c@11DA0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17595.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@11DB0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17592.18-17598.5: Warning (clocks_property): /__local_fixups__/hsi2c@11DB0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17603.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F00000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17600.18-17606.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F00000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17611.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F10000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17608.18-17614.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F10000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17619.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F20000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17616.18-17622.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F20000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17627.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F30000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17624.18-17630.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F30000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17635.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F40000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17632.18-17638.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F40000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17643.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F50000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17640.18-17646.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F50000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17651.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F60000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17648.18-17654.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F60000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17659.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F70000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17656.18-17662.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F70000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17667.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F80000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17664.18-17670.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F80000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17675.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14F90000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17672.18-17678.5: Warning (clocks_property): /__local_fixups__/hsi2c@14F90000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17683.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14FA0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17680.18-17686.5: Warning (clocks_property): /__local_fixups__/hsi2c@14FA0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17691.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14FB0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17688.18-17694.5: Warning (clocks_property): /__local_fixups__/hsi2c@14FB0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17699.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14FC0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17696.18-17702.5: Warning (clocks_property): /__local_fixups__/hsi2c@14FC0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17707.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14FD0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17704.18-17710.5: Warning (clocks_property): /__local_fixups__/hsi2c@14FD0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17715.4-25: Warning (clocks_property): /__local_fixups__/hsi2c@14FE0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17712.18-17718.5: Warning (clocks_property): /__local_fixups__/hsi2c@14FE0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17724.4-25: Warning (clocks_property): /__local_fixups__/spi@11D00000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17720.16-17726.5: Warning (clocks_property): /__local_fixups__/spi@11D00000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17732.4-25: Warning (clocks_property): /__local_fixups__/spi@11D20000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17728.16-17734.5: Warning (clocks_property): /__local_fixups__/spi@11D20000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17740.4-25: Warning (clocks_property): /__local_fixups__/spi@11D40000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17736.16-17742.5: Warning (clocks_property): /__local_fixups__/spi@11D40000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17748.4-25: Warning (clocks_property): /__local_fixups__/spi@11D60000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17744.16-17750.5: Warning (clocks_property): /__local_fixups__/spi@11D60000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17756.4-25: Warning (clocks_property): /__local_fixups__/spi@10500000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17752.16-17758.5: Warning (clocks_property): /__local_fixups__/spi@10500000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17764.4-25: Warning (clocks_property): /__local_fixups__/spi@11DD0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17760.16-17766.5: Warning (clocks_property): /__local_fixups__/spi@11DD0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17772.4-25: Warning (clocks_property): /__local_fixups__/spi@11DE0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17768.16-17774.5: Warning (clocks_property): /__local_fixups__/spi@11DE0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17780.4-25: Warning (clocks_property): /__local_fixups__/spi@10900000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17776.16-17782.5: Warning (clocks_property): /__local_fixups__/spi@10900000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17788.4-25: Warning (clocks_property): /__local_fixups__/spi@10920000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17784.16-17790.5: Warning (clocks_property): /__local_fixups__/spi@10920000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17796.4-25: Warning (clocks_property): /__local_fixups__/spi@10940000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17792.16-17798.5: Warning (clocks_property): /__local_fixups__/spi@10940000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17804.4-25: Warning (clocks_property): /__local_fixups__/spi@10960000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17800.16-17806.5: Warning (clocks_property): /__local_fixups__/spi@10960000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17812.4-25: Warning (clocks_property): /__local_fixups__/spi@11DA0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17808.16-17814.5: Warning (clocks_property): /__local_fixups__/spi@11DA0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17818.4-25: Warning (clocks_property): /__local_fixups__/spi@14F00000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17816.16-17820.5: Warning (clocks_property): /__local_fixups__/spi@14F00000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17824.4-25: Warning (clocks_property): /__local_fixups__/spi@14F20000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17822.16-17826.5: Warning (clocks_property): /__local_fixups__/spi@14F20000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17830.4-25: Warning (clocks_property): /__local_fixups__/spi@14F40000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17828.16-17832.5: Warning (clocks_property): /__local_fixups__/spi@14F40000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17836.4-25: Warning (clocks_property): /__local_fixups__/spi@14F60000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17834.16-17838.5: Warning (clocks_property): /__local_fixups__/spi@14F60000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17842.4-25: Warning (clocks_property): /__local_fixups__/spi@14F80000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17840.16-17844.5: Warning (clocks_property): /__local_fixups__/spi@14F80000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17848.4-25: Warning (clocks_property): /__local_fixups__/spi@14FA0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17846.16-17850.5: Warning (clocks_property): /__local_fixups__/spi@14FA0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17854.4-25: Warning (clocks_property): /__local_fixups__/spi@14FC0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17852.16-17856.5: Warning (clocks_property): /__local_fixups__/spi@14FC0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17860.4-25: Warning (clocks_property): /__local_fixups__/uart@11C40000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17858.17-17861.5: Warning (clocks_property): /__local_fixups__/uart@11C40000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17867.4-25: Warning (clocks_property): /__local_fixups__/uart@10840000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17863.17-17868.5: Warning (clocks_property): /__local_fixups__/uart@10840000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17872.4-25: Warning (clocks_property): /__local_fixups__/uart@11D00000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17870.17-17874.5: Warning (clocks_property): /__local_fixups__/uart@11D00000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17878.4-25: Warning (clocks_property): /__local_fixups__/uart@11D20000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17876.17-17880.5: Warning (clocks_property): /__local_fixups__/uart@11D20000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17884.4-25: Warning (clocks_property): /__local_fixups__/uart@11D40000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17882.17-17886.5: Warning (clocks_property): /__local_fixups__/uart@11D40000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17890.4-25: Warning (clocks_property): /__local_fixups__/uart@11D60000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17888.17-17892.5: Warning (clocks_property): /__local_fixups__/uart@11D60000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17896.4-25: Warning (clocks_property): /__local_fixups__/uart@10500000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17894.17-17898.5: Warning (clocks_property): /__local_fixups__/uart@10500000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17902.4-25: Warning (clocks_property): /__local_fixups__/uart@11DD0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17900.17-17904.5: Warning (clocks_property): /__local_fixups__/uart@11DD0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17908.4-25: Warning (clocks_property): /__local_fixups__/uart@11DE0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17906.17-17910.5: Warning (clocks_property): /__local_fixups__/uart@11DE0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17914.4-25: Warning (clocks_property): /__local_fixups__/uart@10900000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17912.17-17916.5: Warning (clocks_property): /__local_fixups__/uart@10900000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17920.4-25: Warning (clocks_property): /__local_fixups__/uart@10920000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17918.17-17922.5: Warning (clocks_property): /__local_fixups__/uart@10920000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17926.4-25: Warning (clocks_property): /__local_fixups__/uart@10940000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17924.17-17928.5: Warning (clocks_property): /__local_fixups__/uart@10940000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17932.4-25: Warning (clocks_property): /__local_fixups__/uart@10960000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17930.17-17934.5: Warning (clocks_property): /__local_fixups__/uart@10960000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17938.4-25: Warning (clocks_property): /__local_fixups__/uart@11DA0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17936.17-17940.5: Warning (clocks_property): /__local_fixups__/uart@11DA0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17944.4-25: Warning (clocks_property): /__local_fixups__/uart@14F00000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17942.17-17946.5: Warning (clocks_property): /__local_fixups__/uart@14F00000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17950.4-25: Warning (clocks_property): /__local_fixups__/uart@14F20000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17948.17-17952.5: Warning (clocks_property): /__local_fixups__/uart@14F20000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17956.4-25: Warning (clocks_property): /__local_fixups__/uart@14F40000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17954.17-17958.5: Warning (clocks_property): /__local_fixups__/uart@14F40000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17962.4-25: Warning (clocks_property): /__local_fixups__/uart@14F60000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17960.17-17964.5: Warning (clocks_property): /__local_fixups__/uart@14F60000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17968.4-25: Warning (clocks_property): /__local_fixups__/uart@14F80000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17966.17-17970.5: Warning (clocks_property): /__local_fixups__/uart@14F80000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17974.4-25: Warning (clocks_property): /__local_fixups__/uart@14FA0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17972.17-17976.5: Warning (clocks_property): /__local_fixups__/uart@14FA0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17980.4-25: Warning (clocks_property): /__local_fixups__/uart@14FC0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17978.17-17982.5: Warning (clocks_property): /__local_fixups__/uart@14FC0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17985.4-25: Warning (clocks_property): /__local_fixups__/i3c@10460000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17984.16-17987.5: Warning (clocks_property): /__local_fixups__/i3c@10460000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17990.4-25: Warning (clocks_property): /__local_fixups__/i3c@10470000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17989.16-17992.5: Warning (clocks_property): /__local_fixups__/i3c@10470000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17995.4-25: Warning (clocks_property): /__local_fixups__/i3c@10480000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17994.16-17997.5: Warning (clocks_property): /__local_fixups__/i3c@10480000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18000.4-25: Warning (clocks_property): /__local_fixups__/i3c@11DC0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17999.16-18001.5: Warning (clocks_property): /__local_fixups__/i3c@11DC0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18004.4-25: Warning (clocks_property): /__local_fixups__/i3c@11C80000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18003.16-18006.5: Warning (clocks_property): /__local_fixups__/i3c@11C80000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18009.4-25: Warning (clocks_property): /__local_fixups__/i3c@11C90000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18008.16-18011.5: Warning (clocks_property): /__local_fixups__/i3c@11C90000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18014.4-25: Warning (clocks_property): /__local_fixups__/i3c@11CA0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18013.16-18016.5: Warning (clocks_property): /__local_fixups__/i3c@11CA0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18019.4-25: Warning (clocks_property): /__local_fixups__/i3c@11CB0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18018.16-18021.5: Warning (clocks_property): /__local_fixups__/i3c@11CB0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18024.4-25: Warning (clocks_property): /__local_fixups__/i3c@11CC0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18023.16-18026.5: Warning (clocks_property): /__local_fixups__/i3c@11CC0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18029.4-25: Warning (clocks_property): /__local_fixups__/i3c@11CD0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18028.16-18031.5: Warning (clocks_property): /__local_fixups__/i3c@11CD0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18034.4-25: Warning (clocks_property): /__local_fixups__/i3c@11CE0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18033.16-18036.5: Warning (clocks_property): /__local_fixups__/i3c@11CE0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18039.4-25: Warning (clocks_property): /__local_fixups__/i3c@11CF0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18038.16-18041.5: Warning (clocks_property): /__local_fixups__/i3c@11CF0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18054.4-55: Warning (clocks_property): /__local_fixups__/abox@18c50000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18049.17-18109.5: Warning (clocks_property): /__local_fixups__/abox@18c50000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18062.5-31: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c00:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18061.23-18065.6: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c00: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18068.5-31: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c20:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18067.23-18071.6: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c20: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18074.5-31: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c40:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18073.23-18077.6: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c40: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18080.5-31: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c60:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18079.23-18083.6: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c60: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18086.5-31: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c80:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18085.23-18087.6: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50c80: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18090.5-31: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50ca0:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18089.23-18091.6: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50ca0: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18094.5-31: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50cc0:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18093.23-18095.6: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-uaif@18c50cc0: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18098.5-26: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-dsif@18c50de0:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18097.23-18099.6: Warning (clocks_property): /__local_fixups__/abox@18c50000/abox-dsif@18c50de0: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18122.4-65: Warning (clocks_property): /__local_fixups__/vts@0x15310000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18111.18-18133.5: Warning (clocks_property): /__local_fixups__/vts@0x15310000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18138.4-55: Warning (clocks_property): /__local_fixups__/vts_s_lif@0x18f50000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18135.24-18139.5: Warning (clocks_property): /__local_fixups__/vts_s_lif@0x18f50000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18298.4-25: Warning (clocks_property): /__local_fixups__/drmdp@0x10A80000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18296.20-18299.5: Warning (clocks_property): /__local_fixups__/drmdp@0x10A80000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18333.4-25: Warning (clocks_property): /__local_fixups__/usb@10B00000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18332.16-18341.5: Warning (clocks_property): /__local_fixups__/usb@10B00000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18344.4-25: Warning (clocks_property): /__local_fixups__/phy@10AA0000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18343.16-18347.5: Warning (clocks_property): /__local_fixups__/phy@10AA0000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18376.4-25: Warning (clocks_property): /__local_fixups__/ufs@0x11100000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18374.18-18379.5: Warning (clocks_property): /__local_fixups__/ufs@0x11100000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19077.4-181: Warning (clocks_property): /__local_fixups__/exynos_is@18440000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19076.22-19080.5: Warning (clocks_property): /__local_fixups__/exynos_is@18440000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19287.4-25: Warning (clocks_property): /__local_fixups__/mct_alive@15890000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19285.22-19292.5: Warning (clocks_property): /__local_fixups__/mct_alive@15890000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19316.4-25: Warning (clocks_property): /__local_fixups__/pwm@11C50000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19315.16-19317.5: Warning (clocks_property): /__local_fixups__/pwm@11C50000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19320.4-25: Warning (clocks_property): /__local_fixups__/watchdog_cl0@10050000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19319.25-19322.5: Warning (clocks_property): /__local_fixups__/watchdog_cl0@10050000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19325.4-25: Warning (clocks_property): /__local_fixups__/watchdog_cl1@10060000:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19324.25-19327.5: Warning (clocks_property): /__local_fixups__/watchdog_cl1@10060000: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19331.4-25: Warning (clocks_property): /__local_fixups__/contexthub:clocks: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19329.14-19332.5: Warning (clocks_property): /__local_fixups__/contexthub: Missing property '#clock-cells' in node /pd_lme@15862600 or bad phandle (referred from clocks[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:8810.6-41: Warning (cooling_device_property): /thermal-zones/BIG/cooling-maps/map0:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8815.6-41: Warning (cooling_device_property): /thermal-zones/BIG/cooling-maps/map1:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8890.6-41: Warning (cooling_device_property): /thermal-zones/MID/cooling-maps/map0:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8895.6-41: Warning (cooling_device_property): /thermal-zones/MID/cooling-maps/map1:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8970.6-41: Warning (cooling_device_property): /thermal-zones/LITTLE/cooling-maps/map0:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9045.6-41: Warning (cooling_device_property): /thermal-zones/G3D/cooling-maps/map0:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9120.6-41: Warning (cooling_device_property): /thermal-zones/ISP/cooling-maps/map0:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9125.6-41: Warning (cooling_device_property): /thermal-zones/ISP/cooling-maps/map1:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9130.6-41: Warning (cooling_device_property): /thermal-zones/ISP/cooling-maps/map2:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9135.6-41: Warning (cooling_device_property): /thermal-zones/ISP/cooling-maps/map3:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9140.6-41: Warning (cooling_device_property): /thermal-zones/ISP/cooling-maps/map4:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9145.6-41: Warning (cooling_device_property): /thermal-zones/ISP/cooling-maps/map5:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9150.6-41: Warning (cooling_device_property): /thermal-zones/ISP/cooling-maps/map6:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9155.6-41: Warning (cooling_device_property): /thermal-zones/ISP/cooling-maps/map7:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9230.6-41: Warning (cooling_device_property): /thermal-zones/NPU/cooling-maps/map0:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9235.6-41: Warning (cooling_device_property): /thermal-zones/NPU/cooling-maps/map1:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9240.6-41: Warning (cooling_device_property): /thermal-zones/NPU/cooling-maps/map2:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9245.6-41: Warning (cooling_device_property): /thermal-zones/NPU/cooling-maps/map3:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9250.6-41: Warning (cooling_device_property): /thermal-zones/NPU/cooling-maps/map4:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9255.6-41: Warning (cooling_device_property): /thermal-zones/NPU/cooling-maps/map5:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9260.6-41: Warning (cooling_device_property): /thermal-zones/NPU/cooling-maps/map6:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9265.6-41: Warning (cooling_device_property): /thermal-zones/NPU/cooling-maps/map7:cooling-device: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4246.3-32: Warning (dmas_property): /spi@11D00000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4246.3-32: Warning (dmas_property): /spi@11D00000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4270.3-32: Warning (dmas_property): /spi@11D20000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4270.3-32: Warning (dmas_property): /spi@11D20000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4294.3-32: Warning (dmas_property): /spi@11D40000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4294.3-32: Warning (dmas_property): /spi@11D40000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4318.3-32: Warning (dmas_property): /spi@11D60000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4318.3-32: Warning (dmas_property): /spi@11D60000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4342.3-32: Warning (dmas_property): /spi@10500000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4342.3-32: Warning (dmas_property): /spi@10500000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4366.3-32: Warning (dmas_property): /spi@11DD0000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4366.3-32: Warning (dmas_property): /spi@11DD0000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4390.3-32: Warning (dmas_property): /spi@11DE0000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4390.3-32: Warning (dmas_property): /spi@11DE0000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4414.3-32: Warning (dmas_property): /spi@10900000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4414.3-32: Warning (dmas_property): /spi@10900000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4438.3-32: Warning (dmas_property): /spi@10920000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4438.3-32: Warning (dmas_property): /spi@10920000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4462.3-32: Warning (dmas_property): /spi@10940000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4462.3-32: Warning (dmas_property): /spi@10940000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4486.3-32: Warning (dmas_property): /spi@10960000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4486.3-32: Warning (dmas_property): /spi@10960000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4510.3-32: Warning (dmas_property): /spi@11DA0000:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:4510.3-32: Warning (dmas_property): /spi@11DA0000:dmas: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6172.4-23: Warning (dmas_property): /dp_dma/dp_dma@0:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6183.4-23: Warning (dmas_property): /dp_dma/dp_dma@1:dmas: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17721.4-23: Warning (dmas_property): /__local_fixups__/spi@11D00000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17720.16-17726.5: Warning (dmas_property): /__local_fixups__/spi@11D00000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17729.4-23: Warning (dmas_property): /__local_fixups__/spi@11D20000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17728.16-17734.5: Warning (dmas_property): /__local_fixups__/spi@11D20000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17737.4-23: Warning (dmas_property): /__local_fixups__/spi@11D40000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17736.16-17742.5: Warning (dmas_property): /__local_fixups__/spi@11D40000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17745.4-23: Warning (dmas_property): /__local_fixups__/spi@11D60000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17744.16-17750.5: Warning (dmas_property): /__local_fixups__/spi@11D60000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17753.4-23: Warning (dmas_property): /__local_fixups__/spi@10500000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17752.16-17758.5: Warning (dmas_property): /__local_fixups__/spi@10500000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17761.4-23: Warning (dmas_property): /__local_fixups__/spi@11DD0000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17760.16-17766.5: Warning (dmas_property): /__local_fixups__/spi@11DD0000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17769.4-23: Warning (dmas_property): /__local_fixups__/spi@11DE0000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17768.16-17774.5: Warning (dmas_property): /__local_fixups__/spi@11DE0000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17777.4-23: Warning (dmas_property): /__local_fixups__/spi@10900000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17776.16-17782.5: Warning (dmas_property): /__local_fixups__/spi@10900000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17785.4-23: Warning (dmas_property): /__local_fixups__/spi@10920000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17784.16-17790.5: Warning (dmas_property): /__local_fixups__/spi@10920000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17793.4-23: Warning (dmas_property): /__local_fixups__/spi@10940000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17792.16-17798.5: Warning (dmas_property): /__local_fixups__/spi@10940000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17801.4-23: Warning (dmas_property): /__local_fixups__/spi@10960000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17800.16-17806.5: Warning (dmas_property): /__local_fixups__/spi@10960000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:17809.4-23: Warning (dmas_property): /__local_fixups__/spi@11DA0000:dmas: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:17808.16-17814.5: Warning (dmas_property): /__local_fixups__/spi@11DA0000: Missing property '#dma-cells' in node /pd_lme@15862600 or bad phandle (referred from dmas[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:5299.3-19: Warning (iommus_property): /abox@18c50000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6946.3-34: Warning (iommus_property): /drmdpp@0x1AD00000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6946.3-34: Warning (iommus_property): /drmdpp@0x1AD00000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6946.3-34: Warning (iommus_property): /drmdpp@0x1AD00000:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6946.3-34: Warning (iommus_property): /drmdpp@0x1AD00000:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7204.3-34: Warning (iommus_property): /drmdpp@0x1AD08000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7204.3-34: Warning (iommus_property): /drmdpp@0x1AD08000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7204.3-34: Warning (iommus_property): /drmdpp@0x1AD08000:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7204.3-34: Warning (iommus_property): /drmdpp@0x1AD08000:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7278.3-34: Warning (iommus_property): /drmdsim@0x19EC0000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7278.3-34: Warning (iommus_property): /drmdsim@0x19EC0000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7278.3-34: Warning (iommus_property): /drmdsim@0x19EC0000:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7278.3-34: Warning (iommus_property): /drmdsim@0x19EC0000:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7308.3-34: Warning (iommus_property): /drmdecon@0x19F00000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7308.3-34: Warning (iommus_property): /drmdecon@0x19F00000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7308.3-34: Warning (iommus_property): /drmdecon@0x19F00000:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7308.3-34: Warning (iommus_property): /drmdecon@0x19F00000:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7367.3-34: Warning (iommus_property): /drmdecon@0x19F01000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7367.3-34: Warning (iommus_property): /drmdecon@0x19F01000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7367.3-34: Warning (iommus_property): /drmdecon@0x19F01000:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7367.3-34: Warning (iommus_property): /drmdecon@0x19F01000:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7399.3-34: Warning (iommus_property): /drmdecon@0x19F02000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7399.3-34: Warning (iommus_property): /drmdecon@0x19F02000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7399.3-34: Warning (iommus_property): /drmdecon@0x19F02000:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7399.3-34: Warning (iommus_property): /drmdecon@0x19F02000:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7431.3-34: Warning (iommus_property): /drmdecon@0x19F03000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7431.3-34: Warning (iommus_property): /drmdecon@0x19F03000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7431.3-34: Warning (iommus_property): /drmdecon@0x19F03000:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7431.3-34: Warning (iommus_property): /drmdecon@0x19F03000:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14022.3-38: Warning (iommus_property): /mfc:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14022.3-38: Warning (iommus_property): /mfc:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14022.3-38: Warning (iommus_property): /mfc:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14022.3-38: Warning (iommus_property): /mfc:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14146.4-27: Warning (iommus_property): /mfc/MFC-0:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14146.4-27: Warning (iommus_property): /mfc/MFC-0:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14361.4-27: Warning (iommus_property): /mfc/MFC-1:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14361.4-27: Warning (iommus_property): /mfc/MFC-1:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14564.3-20: Warning (iommus_property): /smfc@18940000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14575.3-20: Warning (iommus_property): /smfc@18950000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14590.3-20: Warning (iommus_property): /scaler@18960000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14611.3-20: Warning (iommus_property): /jsqz@18980000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14621.3-20: Warning (iommus_property): /mcfrc@0x18A50000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14631.3-20: Warning (iommus_property): /tsmux@186E0000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14718.3-44: Warning (iommus_property): /exynos_is@18440000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14718.3-44: Warning (iommus_property): /exynos_is@18440000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14718.3-44: Warning (iommus_property): /exynos_is@18440000:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14718.3-44: Warning (iommus_property): /exynos_is@18440000:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14718.3-44: Warning (iommus_property): /exynos_is@18440000:iommus: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14788.3-20: Warning (iommus_property): /gdc@17700000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14802.3-56: Warning (iommus_property): /votf0:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14802.3-56: Warning (iommus_property): /votf0:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14802.3-56: Warning (iommus_property): /votf0:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14802.3-56: Warning (iommus_property): /votf0:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14802.3-56: Warning (iommus_property): /votf0:iommus: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14802.3-56: Warning (iommus_property): /votf0:iommus: cell 5 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14802.3-56: Warning (iommus_property): /votf0:iommus: cell 6 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14858.3-44: Warning (iommus_property): /votf1:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14858.3-44: Warning (iommus_property): /votf1:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14858.3-44: Warning (iommus_property): /votf1:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14858.3-44: Warning (iommus_property): /votf1:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14858.3-44: Warning (iommus_property): /votf1:iommus: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14914.3-20: Warning (iommus_property): /votf2:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14955.3-44: Warning (iommus_property): /is_iommu_group0:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14955.3-44: Warning (iommus_property): /is_iommu_group0:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14955.3-44: Warning (iommus_property): /is_iommu_group0:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14955.3-44: Warning (iommus_property): /is_iommu_group0:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14955.3-44: Warning (iommus_property): /is_iommu_group0:iommus: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14962.3-20: Warning (iommus_property): /is_iommu_group1:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14969.3-56: Warning (iommus_property): /is_iommu_group2:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14969.3-56: Warning (iommus_property): /is_iommu_group2:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14969.3-56: Warning (iommus_property): /is_iommu_group2:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14969.3-56: Warning (iommus_property): /is_iommu_group2:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14969.3-56: Warning (iommus_property): /is_iommu_group2:iommus: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14969.3-56: Warning (iommus_property): /is_iommu_group2:iommus: cell 5 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14969.3-56: Warning (iommus_property): /is_iommu_group2:iommus: cell 6 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14976.3-26: Warning (iommus_property): /is_iommu_group3:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14976.3-26: Warning (iommus_property): /is_iommu_group3:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15165.3-26: Warning (iommus_property): /is_sensor0@17030000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15165.3-26: Warning (iommus_property): /is_sensor0@17030000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15181.3-26: Warning (iommus_property): /is_sensor1@17040000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15181.3-26: Warning (iommus_property): /is_sensor1@17040000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15198.3-26: Warning (iommus_property): /is_sensor2@17050000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15198.3-26: Warning (iommus_property): /is_sensor2@17050000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15214.3-26: Warning (iommus_property): /is_sensor3@17060000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15214.3-26: Warning (iommus_property): /is_sensor3@17060000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15230.3-26: Warning (iommus_property): /is_sensor4@17070000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15230.3-26: Warning (iommus_property): /is_sensor4@17070000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15246.3-26: Warning (iommus_property): /is_sensor5@17080000:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15246.3-26: Warning (iommus_property): /is_sensor5@17080000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15433.3-44: Warning (iommus_property): /npu_exynos:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15433.3-44: Warning (iommus_property): /npu_exynos:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15433.3-44: Warning (iommus_property): /npu_exynos:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15433.3-44: Warning (iommus_property): /npu_exynos:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15433.3-44: Warning (iommus_property): /npu_exynos:iommus: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15514.3-44: Warning (iommus_property): /hwdev_dnc:iommus: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15514.3-44: Warning (iommus_property): /hwdev_dnc:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15514.3-44: Warning (iommus_property): /hwdev_dnc:iommus: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15514.3-44: Warning (iommus_property): /hwdev_dnc:iommus: cell 3 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15514.3-44: Warning (iommus_property): /hwdev_dnc:iommus: cell 4 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18276.4-35: Warning (iommus_property): /__local_fixups__/drmdpp@0x1AD00000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18275.21-18278.5: Warning (iommus_property): /__local_fixups__/drmdpp@0x1AD00000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18281.4-35: Warning (iommus_property): /__local_fixups__/drmdpp@0x1AD08000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18280.21-18283.5: Warning (iommus_property): /__local_fixups__/drmdpp@0x1AD08000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18290.4-35: Warning (iommus_property): /__local_fixups__/drmdsim@0x19EC0000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18289.22-18294.5: Warning (iommus_property): /__local_fixups__/drmdsim@0x19EC0000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18302.4-35: Warning (iommus_property): /__local_fixups__/drmdecon@0x19F00000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18301.23-18309.5: Warning (iommus_property): /__local_fixups__/drmdecon@0x19F00000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18312.4-35: Warning (iommus_property): /__local_fixups__/drmdecon@0x19F01000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18311.23-18316.5: Warning (iommus_property): /__local_fixups__/drmdecon@0x19F01000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18319.4-35: Warning (iommus_property): /__local_fixups__/drmdecon@0x19F02000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18318.23-18323.5: Warning (iommus_property): /__local_fixups__/drmdecon@0x19F02000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18326.4-35: Warning (iommus_property): /__local_fixups__/drmdecon@0x19F03000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18325.23-18330.5: Warning (iommus_property): /__local_fixups__/drmdecon@0x19F03000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19022.4-35: Warning (iommus_property): /__local_fixups__/mfc:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19021.7-19037.5: Warning (iommus_property): /__local_fixups__/mfc: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19028.5-26: Warning (iommus_property): /__local_fixups__/mfc/MFC-0:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19026.10-19030.6: Warning (iommus_property): /__local_fixups__/mfc/MFC-0: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19034.5-26: Warning (iommus_property): /__local_fixups__/mfc/MFC-1:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19032.10-19036.6: Warning (iommus_property): /__local_fixups__/mfc/MFC-1: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19078.4-40: Warning (iommus_property): /__local_fixups__/exynos_is@18440000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19076.22-19080.5: Warning (iommus_property): /__local_fixups__/exynos_is@18440000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19089.4-50: Warning (iommus_property): /__local_fixups__/votf0:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19088.9-19091.5: Warning (iommus_property): /__local_fixups__/votf0: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19094.4-40: Warning (iommus_property): /__local_fixups__/votf1:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19093.9-19096.5: Warning (iommus_property): /__local_fixups__/votf1: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19108.4-40: Warning (iommus_property): /__local_fixups__/is_iommu_group0:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19107.19-19110.5: Warning (iommus_property): /__local_fixups__/is_iommu_group0: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19118.4-50: Warning (iommus_property): /__local_fixups__/is_iommu_group2:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19117.19-19120.5: Warning (iommus_property): /__local_fixups__/is_iommu_group2: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19123.4-25: Warning (iommus_property): /__local_fixups__/is_iommu_group3:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19122.19-19125.5: Warning (iommus_property): /__local_fixups__/is_iommu_group3: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19189.4-25: Warning (iommus_property): /__local_fixups__/is_sensor0@17030000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19186.23-19191.5: Warning (iommus_property): /__local_fixups__/is_sensor0@17030000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19196.4-25: Warning (iommus_property): /__local_fixups__/is_sensor1@17040000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19193.23-19198.5: Warning (iommus_property): /__local_fixups__/is_sensor1@17040000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19203.4-25: Warning (iommus_property): /__local_fixups__/is_sensor2@17050000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19200.23-19205.5: Warning (iommus_property): /__local_fixups__/is_sensor2@17050000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19210.4-25: Warning (iommus_property): /__local_fixups__/is_sensor3@17060000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19207.23-19212.5: Warning (iommus_property): /__local_fixups__/is_sensor3@17060000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19217.4-25: Warning (iommus_property): /__local_fixups__/is_sensor4@17070000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19214.23-19219.5: Warning (iommus_property): /__local_fixups__/is_sensor4@17070000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19224.4-25: Warning (iommus_property): /__local_fixups__/is_sensor5@17080000:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19221.23-19226.5: Warning (iommus_property): /__local_fixups__/is_sensor5@17080000: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19245.4-40: Warning (iommus_property): /__local_fixups__/npu_exynos:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19244.14-19255.5: Warning (iommus_property): /__local_fixups__/npu_exynos: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:19259.4-40: Warning (iommus_property): /__local_fixups__/hwdev_dnc:iommus: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:19257.13-19261.5: Warning (iommus_property): /__local_fixups__/hwdev_dnc: Missing property '#iommu-cells' in node /pd_allcsis@15862000 or bad phandle (referred from iommus[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:7280.3-22: Warning (phys_property): /drmdsim@0x19EC0000:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7490.3-32: Warning (phys_property): /usb@10B00000:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7490.3-32: Warning (phys_property): /usb@10B00000:phys: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7499.4-33: Warning (phys_property): /usb@10B00000/dwc3:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7499.4-33: Warning (phys_property): /usb@10B00000/dwc3:phys: cell 2 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15162.3-23: Warning (phys_property): /is_sensor0@17030000:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15178.3-23: Warning (phys_property): /is_sensor1@17040000:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15195.3-23: Warning (phys_property): /is_sensor2@17050000:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15211.3-23: Warning (phys_property): /is_sensor3@17060000:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15227.3-23: Warning (phys_property): /is_sensor4@17070000:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15243.3-23: Warning (phys_property): /is_sensor5@17080000:phys: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18336.4-23: Warning (phys_property): /__local_fixups__/usb@10B00000:phys: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18332.16-18341.5: Warning (phys_property): /__local_fixups__/usb@10B00000: Missing property '#phy-cells' in node /pd_lme@15862600 or bad phandle (referred from phys[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:18339.5-24: Warning (phys_property): /__local_fixups__/usb@10B00000/dwc3:phys: cell 1 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:18338.9-18340.6: Warning (phys_property): /__local_fixups__/usb@10B00000/dwc3: Missing property '#phy-cells' in node /pd_lme@15862600 or bad phandle (referred from phys[1])
+arch/arm64/boot/dts/exynos/s5e9925.dts:322.3-26: Warning (power_domains_property): /sysmmu@0x18D50000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:337.3-26: Warning (power_domains_property): /sysmmu@0x17430000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:352.3-26: Warning (power_domains_property): /sysmmu@0x17530000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:367.3-26: Warning (power_domains_property): /sysmmu@0x17570000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:382.3-26: Warning (power_domains_property): /sysmmu@0x17170000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:397.3-26: Warning (power_domains_property): /sysmmu@0x171A0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:412.3-26: Warning (power_domains_property): /sysmmu@0x171D0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:427.3-26: Warning (power_domains_property): /sysmmu@0x18540000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:442.3-26: Warning (power_domains_property): /sysmmu@0x16040000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:457.3-26: Warning (power_domains_property): /sysmmu@0x16070000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:472.3-26: Warning (power_domains_property): /sysmmu@0x160A0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:487.3-26: Warning (power_domains_property): /sysmmu@0x160D0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:502.3-26: Warning (power_domains_property): /sysmmu@0x16100000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:517.3-26: Warning (power_domains_property): /sysmmu@0x1AC40000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:532.3-26: Warning (power_domains_property): /sysmmu@0x1AC50000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:547.3-26: Warning (power_domains_property): /sysmmu@0x1AE40000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:562.3-26: Warning (power_domains_property): /sysmmu@0x1AE50000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:577.3-26: Warning (power_domains_property): /sysmmu@0x176A0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:592.3-26: Warning (power_domains_property): /sysmmu@0x18A00000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:607.3-26: Warning (power_domains_property): /sysmmu@0x15C70000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:622.3-26: Warning (power_domains_property): /sysmmu@0x15CA0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:637.3-26: Warning (power_domains_property): /sysmmu@0x15CD0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:652.3-26: Warning (power_domains_property): /sysmmu@0x15D00000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:667.3-26: Warning (power_domains_property): /sysmmu@0x15D30000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:682.3-26: Warning (power_domains_property): /sysmmu@0x18670000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:699.3-26: Warning (power_domains_property): /sysmmu@0x186A0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:714.3-26: Warning (power_domains_property): /sysmmu@0x18870000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:729.3-26: Warning (power_domains_property): /sysmmu@0x188A0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:744.3-26: Warning (power_domains_property): /sysmmu@0x18070000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:759.3-26: Warning (power_domains_property): /sysmmu@0x180A0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5193.3-26: Warning (power_domains_property): /sgpu@16E00000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:5302.3-26: Warning (power_domains_property): /abox@18c50000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6119.3-26: Warning (power_domains_property): /vts@0x15310000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:6152.3-26: Warning (power_domains_property): /vts_s_lif@0x18f50000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7295.3-26: Warning (power_domains_property): /drmdp@0x10A80000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7479.3-26: Warning (power_domains_property): /usb@10B00000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7519.3-26: Warning (power_domains_property): /phy@10AA0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7584.3-26: Warning (power_domains_property): /pcie@113B0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7619.3-26: Warning (power_domains_property): /pcie@11320000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7631.3-26: Warning (power_domains_property): /sysmmu@11280000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9536.3-26: Warning (power_domains_property): /secmem:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9556.3-27: Warning (power_domains_property): /ssp:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12295.3-26: Warning (power_domains_property): /dbgdev-pd-aud:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12300.3-27: Warning (power_domains_property): /dbgdev-pd-nocl1c:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12305.3-26: Warning (power_domains_property): /dbgdev-pd-brp:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12310.3-26: Warning (power_domains_property): /dbgdev-pd-cstat:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12315.3-26: Warning (power_domains_property): /dbgdev-pd-allcsis:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12320.3-27: Warning (power_domains_property): /dbgdev-pd-dpub:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12325.3-26: Warning (power_domains_property): /dbgdev-pd-dpuf:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12330.3-26: Warning (power_domains_property): /dbgdev-pd-g3dcore:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12335.3-27: Warning (power_domains_property): /dbgdev-pd-strong:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12340.3-26: Warning (power_domains_property): /dbgdev-pd-dnc:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12345.3-27: Warning (power_domains_property): /dbgdev-pd-gnpu0:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12350.3-27: Warning (power_domains_property): /dbgdev-pd-gnpu1:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12355.3-26: Warning (power_domains_property): /dbgdev-pd-hsi0:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12360.3-26: Warning (power_domains_property): /dbgdev-pd-hsi1:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12365.3-26: Warning (power_domains_property): /dbgdev-pd-lme:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12370.3-26: Warning (power_domains_property): /dbgdev-pd-m2m:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12375.3-26: Warning (power_domains_property): /dbgdev-pd-mcsc:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12380.3-26: Warning (power_domains_property): /dbgdev-pd-mfc0:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12385.3-26: Warning (power_domains_property): /dbgdev-pd-mfc1:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12390.3-27: Warning (power_domains_property): /dbgdev-pd-dsp0:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12395.3-26: Warning (power_domains_property): /dbgdev-pd-vts:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12400.3-26: Warning (power_domains_property): /dbgdev-pd-yuvp:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12405.3-27: Warning (power_domains_property): /dbgdev-pd-sdma:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:12410.3-27: Warning (power_domains_property): /dbgdev-pd-ufd:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14633.3-26: Warning (power_domains_property): /tsmux@186E0000:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:14639.3-26: Warning (power_domains_property): /repeater@0:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15529.3-27: Warning (power_domains_property): /hwdev_npu:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:15540.3-27: Warning (power_domains_property): /hwdev_dsp:power-domains: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8744.4-30: Warning (thermal_sensors_property): /thermal-zones/BIG:thermal-sensors: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8824.4-30: Warning (thermal_sensors_property): /thermal-zones/MID:thermal-sensors: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8904.4-30: Warning (thermal_sensors_property): /thermal-zones/LITTLE:thermal-sensors: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:8979.4-29: Warning (thermal_sensors_property): /thermal-zones/G3D:thermal-sensors: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9054.4-30: Warning (thermal_sensors_property): /thermal-zones/ISP:thermal-sensors: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9164.4-30: Warning (thermal_sensors_property): /thermal-zones/NPU:thermal-sensors: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:9274.4-30: Warning (thermal_sensors_property): /thermal-zones/CP:thermal-sensors: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7344.3-28: Warning (gpios_property): /drmdecon@0x19F00000:gpios: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7554.3-28: Warning (gpios_property): /pcie@113B0000:gpios: cell 0 is not a phandle reference
+arch/arm64/boot/dts/exynos/s5e9925.dts:7591.3-28: Warning (gpios_property): /pcie@11320000:gpios: cell 0 is not a phandle reference

@@ -1,0 +1,11 @@
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:26.5-21: Warning (clocks_property): /soc/ap-apb/serial@70000000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:35.5-21: Warning (clocks_property): /soc/ap-apb/serial@70100000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:44.5-21: Warning (clocks_property): /soc/ap-apb/serial@70200000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:53.5-21: Warning (clocks_property): /soc/ap-apb/serial@70300000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:107.3-19: Warning (clocks_property): /etf@10003000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:125.3-19: Warning (clocks_property): /funnel@10001000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:194.3-19: Warning (clocks_property): /etm@10440000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:213.3-19: Warning (clocks_property): /etm@10540000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:232.3-19: Warning (clocks_property): /etm@10640000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:251.3-19: Warning (clocks_property): /etm@10740000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/sprd/sc9836-openphone.dts:270.3-19: Warning (clocks_property): /stm@10006000:clocks: cell 0 is not a phandle reference

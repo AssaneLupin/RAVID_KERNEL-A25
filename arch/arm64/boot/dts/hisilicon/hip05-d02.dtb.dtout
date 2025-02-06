@@ -1,0 +1,3 @@
+arch/arm64/boot/dts/hisilicon/hip05-d02.dts:336.4-20: Warning (clocks_property): /soc/uart@80300000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip05-d02.dts:348.4-20: Warning (clocks_property): /soc/uart@80310000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip05-d02.dts:457.4-29: Warning (gpios_property): /gpio_keys/pwrbutton:gpios: cell 0 is not a phandle reference
